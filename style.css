@@ -1,0 +1,35 @@
+body {
+    background: skyblue;
+    text-align: center;
+    font-family: 'Open Sans';
+}
+
+h1 {
+    font-size:x-large;
+    text-shadow: 0px -2px red;
+    text-decoration: underline;    
+}
+
+.pavadinimas {
+    font-size: large;
+}
+.box {
+    display: inline-block;
+    background: #379683;
+    border: 3px solid white;
+    border-radius: 100px;
+    border-top: none;
+    border-bottom: 5px solid black;
+    border-left: 3px solid red;
+    border-right: 3px solid red;
+    padding: 30px;
+}
+
+p {
+    color: white;
+}
+
+img {
+    height: 500px;
+    border: 2px solid black;
+}
